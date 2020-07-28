@@ -8,4 +8,4 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-Learning about python and javascript ecosytem and stepping up to be a fullstack developer :rocket:
+Learning about python and javascript ecosystem and stepping me up to become a fullstack developer :rocket:
